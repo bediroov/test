@@ -1,0 +1,17 @@
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    button{
+        background-color: rgb(245, 244, 240);
+        margin-top: 10px;
+        font-size: 25px;   
+        padding: 5px;
+        font-weight: bold;
+
+        &:hover{
+            background-color: coral;
+        }
+    }
+}

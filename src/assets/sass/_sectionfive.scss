@@ -1,0 +1,59 @@
+.sectionfive{
+    background-color: darkgray;
+    width: 100%;
+    height: 60vh;
+
+ .rightside{
+    color: rgb(85, 85, 85);
+    font-size: 20px;
+ }
+
+ .main{
+
+    .left{
+        display: flex;
+        align-items: center;
+        
+        .seklbir{
+           width: 50%;
+            img{
+                width: 100%;
+                float: left;
+            }
+        }
+        .yazibir{
+            background-color: rgb(145, 105, 53);
+           width: 100%;
+            p{
+                font-size: 20px;
+                font-weight: bold;
+            }
+        }
+    }
+
+    .right{
+        display: flex;
+        align-items: center;
+        
+        .sekliki{
+           width: 50%;
+            img{
+                width: 100%;
+                float: left;
+            }
+        }
+        .yaziiki{
+            background-color: antiquewhite;
+          width: 100%;
+            p{
+                font-size: 20px;
+                font-weight: bold;
+            }
+        }
+    }
+
+
+
+ }
+
+}
